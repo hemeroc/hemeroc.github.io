@@ -2,7 +2,7 @@
 title:               'Hemeróc'
 tagline:             'Engineer at Work'
 description:         'Documenting the life of an engineer.'
-url:                 https://hemeroc.github.io
+url:                 https://hemeroc.sunken.dev
 baseurl:             ''
 paginate:            5
 permalink:           pretty
